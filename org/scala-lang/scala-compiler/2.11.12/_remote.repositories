@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 23 17:09:28 ICT 2022
+scala-compiler-2.11.12-javadoc.jar>central=
+scala-compiler-2.11.12-sources.jar>central=
+scala-compiler-2.11.12.jar>central=
+scala-compiler-2.11.12.pom>central=
